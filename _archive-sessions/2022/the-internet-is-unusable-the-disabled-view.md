@@ -3,6 +3,8 @@ title: 'The internet is unusable: The disabled view.'
 osem_url: https://osem.seagl.org/conferences/seagl2022/program/proposals/905
 beginning: '2022-11-04T11:55:00.000-07:00'
 end: '2022-11-04T12:25:00.000-07:00'
+resources:
+  internet_archive_identifier: SeaGL2022-vavroom-The_internet_is_unusable_The_disabled_view
 presenters:
 - name: vavroom
   osem_url: https://osem.seagl.org/users/1431
